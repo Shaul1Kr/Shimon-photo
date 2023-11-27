@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  color: grey;
+  margin: auto;
+}
+
+div.weddingimgdiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
